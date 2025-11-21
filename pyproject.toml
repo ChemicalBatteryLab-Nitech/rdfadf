@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rdfadf"
+version = "0.1.0"
+authors = [
+    { name="Masanobu Nakayama" }
+]
+description = "RDF/ADF computation tools with periodic-table-based labeling"
+readme = "README.md"
+license = { text = "MIT License" }
+requires-python = ">=3.8"
+
+dependencies = [
+    "numpy",
+    "scipy",
+    "ase",
+]
+
+[project.urls]
+Homepage = "https://github.com/yourrepo/rdfadf"
