@@ -6,6 +6,9 @@
 **RDF（Radial Distribution Function）** および  
 **ADF（Angular Distribution Function）** を高精度に計算する Python パッケージです。
 
+このスクリプトは、教育目的で作成しているため、計算速度等の高速化はなされておらず、粒子数が大きい巨大な構造に対しては非常に計算が遅くなる可能性があります。
+このスクリプトは、主として Atomic Simulation Environment (ASE) https://ase-lib.org/ の機能に基づいて作成してます。
+
 本パッケージは以下の特徴を持ちます：
 
 - **周期境界条件（PBC）を完全に考慮した RDF/ADF 計算**
