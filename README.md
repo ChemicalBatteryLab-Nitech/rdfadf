@@ -1,4 +1,4 @@
-# rdfadf Package
+# rdfadf
 
 ## 1. Summary
 
@@ -30,10 +30,10 @@ Key features:
 
 ## 2. Installation
 
-Install the package from the project root directory:
+Install:
 
 ```bash
-pip install .
+pip install rdfadf
 ```
 
 Uninstall:
