@@ -1,4 +1,4 @@
-# rdfadf Package (English README)
+# rdfadf Package
 
 ## 1. Summary
 
