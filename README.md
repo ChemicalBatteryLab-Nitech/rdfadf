@@ -2,10 +2,13 @@
 
 ## 1. Summary
 
-`rdfadf` is a Python package for computing  
+`rdfadf` is for computing  
 **RDF (Radial Distribution Function)** and  
 **ADF (Angular Distribution Function)**  
 for crystalline and amorphous materials with high numerical accuracy.
+
+This script was developed for educational purposes and has not been optimized for computational speed. As a result, it may become significantly slower when applied to very large systems with a high number of particles. 
+This script is primarily built using the functionality provided by the Atomic Simulation Environment (ASE) https://ase-lib.org/.
 
 Key features:
 
