@@ -29,7 +29,7 @@
 ## 2. インストール（Install）
 
 ```bash
-pip install .
+pip install rdfadf
 ```
 
 アンインストール：
